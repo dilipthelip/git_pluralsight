@@ -19,3 +19,5 @@ Changing it in local.
 Changing it in remote.
 
 Fix to bug1234
+
+Adding changes to the bug and merge to the main branch.
