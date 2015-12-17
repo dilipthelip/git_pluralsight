@@ -18,4 +18,8 @@ Changing it in local.
 
 Changing it in remote.
 
+<<<<<<< HEAD
 FEATURE1 Changes
+=======
+Fix to bug1234
+>>>>>>> bug1234
