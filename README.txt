@@ -18,5 +18,9 @@ Changing it in local.
 
 Changing it in remote.
 
+
 Adding the merge branch chenages
+
+
+Adding changes to the bug and merge to the main branch.
 
